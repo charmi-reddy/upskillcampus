@@ -1,0 +1,7 @@
+Horizon_hours,Model,MAE,RMSE,R2,N_test
+1,Random Forest (+lags),0.6537,0.8479,0.4546,813
+1,Persistence baseline,0.4447,0.7152,0.6119,813
+2,Random Forest (+lags),0.7553,0.9478,0.3185,813
+2,Persistence baseline,0.5778,0.8771,0.4164,813
+4,Random Forest (+lags),0.905,1.0902,0.0991,812
+4,Persistence baseline,0.7773,1.1,0.083,812
