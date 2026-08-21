@@ -1,0 +1,48 @@
+Experiment,Feature,Importance
+with_iron,% Iron Concentrate,0.7097491739367506
+with_iron,Amina Flow,0.01946958004476883
+with_iron,% Silica Feed,0.018757043744876092
+with_iron,Flotation Column 01 Air Flow,0.01793575298467354
+with_iron,Starch Flow,0.015700932765898807
+with_iron,Flotation Column 05 Air Flow,0.014605755524028602
+with_iron,Ore Pulp Density,0.013965265014848616
+with_iron,Flotation Column 04 Air Flow,0.012935755365144234
+with_iron,Ore Pulp pH,0.012907297851801681
+with_iron,Flotation Column 03 Level,0.012525291242778302
+with_iron,Flotation Column 03 Air Flow,0.012407531195260812
+with_iron,Flotation Column 05 Level,0.012114163918922042
+with_iron,Flotation Column 07 Level,0.011926516950356564
+with_iron,Flotation Column 06 Level,0.011797057557413747
+with_iron,Flotation Column 04 Level,0.011713465168822016
+with_iron,Flotation Column 06 Air Flow,0.011415586370465787
+with_iron,% Iron Feed,0.010933439622421402
+with_iron,Flotation Column 02 Level,0.01092619340064916
+with_iron,Flotation Column 01 Level,0.01088943705982027
+with_iron,Flotation Column 02 Air Flow,0.010794404921072911
+with_iron,Ore Pulp Flow,0.010338478727840314
+with_iron,day_of_week,0.009090742269009577
+with_iron,hour,0.008550647353908326
+with_iron,Flotation Column 07 Air Flow,0.008550487008467658
+without_iron,Flotation Column 01 Air Flow,0.08225360373013309
+without_iron,Amina Flow,0.07907283659210602
+without_iron,Flotation Column 04 Air Flow,0.06258063221858977
+without_iron,Flotation Column 03 Air Flow,0.05879350581262982
+without_iron,Flotation Column 06 Level,0.0507787044286682
+without_iron,Flotation Column 07 Level,0.04941499753647831
+without_iron,% Silica Feed,0.04504996173909545
+without_iron,Flotation Column 03 Level,0.0419117032087771
+without_iron,Flotation Column 05 Level,0.04055123529847625
+without_iron,Ore Pulp Density,0.040486233096311046
+without_iron,Ore Pulp Flow,0.038868137760903594
+without_iron,Starch Flow,0.03882920120898653
+without_iron,hour,0.038440856851569644
+without_iron,Ore Pulp pH,0.0373092381214402
+without_iron,Flotation Column 04 Level,0.03583137934496835
+without_iron,Flotation Column 01 Level,0.03558352697052683
+without_iron,Flotation Column 02 Level,0.03534651228740217
+without_iron,Flotation Column 05 Air Flow,0.033841301901712896
+without_iron,% Iron Feed,0.0326009848349243
+without_iron,Flotation Column 06 Air Flow,0.03242238318344006
+without_iron,Flotation Column 02 Air Flow,0.03183261771074583
+without_iron,day_of_week,0.030062508364031442
+without_iron,Flotation Column 07 Air Flow,0.028137937798083015
