@@ -1,0 +1,7 @@
+Experiment,Model,MAE,RMSE,R2,Train_R2,N_Features
+with_iron,Linear Regression,0.5577,0.7072,0.6201,0.6879,24
+with_iron,Random Forest,0.5642,0.7028,0.6248,0.9599,24
+with_iron,Gradient Boosting,0.5578,0.698,0.6299,0.8429,24
+without_iron,Linear Regression,0.9737,1.2377,-0.1636,0.1781,23
+without_iron,Random Forest,0.9396,1.1296,0.0307,0.8898,23
+without_iron,Gradient Boosting,0.8937,1.0878,0.1011,0.5149,23
