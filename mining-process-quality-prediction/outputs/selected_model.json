@@ -1,0 +1,8 @@
+{
+  "selected_experiment": "without_iron",
+  "selected_model": "Gradient Boosting",
+  "reason": "Chosen from the without_iron experiment because % Iron Concentrate comes from the same hourly lab assay as the target and would not be available when a prediction is actually needed.",
+  "test_MAE": 0.8937,
+  "test_RMSE": 1.0878,
+  "test_R2": 0.1011
+}
