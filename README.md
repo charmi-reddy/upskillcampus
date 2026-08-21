@@ -20,7 +20,7 @@ Two projects were selected and developed as part of the training:
 
 
 1. **Turbofan Engine Remaining Useful Life Prediction** - ![README.md](https://github.com/charmi-reddy/upskillcampus/blob/main/turbofan-rul-prediction/README.md)
-2. **Mining Process Quality Prediction**
+2. **Mining Process Quality Prediction** ![README.md](https://github.com/charmi-reddy/upskillcampus/blob/main/mining-process-quality-prediction/README.md)
 
 
 The projects cover the basic Machine Learning workflow, including data exploration, preprocessing, feature preparation, model development, evaluation, visualization, and result analysis.
