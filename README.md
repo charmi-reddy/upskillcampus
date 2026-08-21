@@ -19,7 +19,7 @@ The internship focused on applying Machine Learning concepts to practical indust
 Two projects were selected and developed as part of the training:
 
 
-1. **Turbofan Engine Remaining Useful Life Prediction**
+1. **Turbofan Engine Remaining Useful Life Prediction** - ![README.md](https://github.com/charmi-reddy/upskillcampus/blob/main/turbofan-rul-prediction/README.md)
 2. **Mining Process Quality Prediction**
 
 
